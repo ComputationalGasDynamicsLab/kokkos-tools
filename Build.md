@@ -10,7 +10,7 @@
 
 4. Type `make` 
 
-5. Specify the generated .dylib file in the environment variable KOKKOS_TOOLS_LIBRARY when running your Kokkos-based application. 
+5. Specify the generated .dylib file in the environment variable KOKKOS_TOOLS_LIBS when running your Kokkos-based application. 
 
 
 # With Makefile (recommended)
@@ -19,4 +19,4 @@
 
 2. Type `make` 
 
-3. Specify the generated .so file in the environment variable KOKKOS_TOOLS_LIBRARY when running your Kokkos-based application. 
+3. Specify the generated .so file in the environment variable KOKKOS_TOOLS_LIBS when running your Kokkos-based application. 
